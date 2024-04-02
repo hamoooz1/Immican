@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "text": "Immigrating to Canada is complex and the multitude of available services can be overwhelming. Deciding where to start is one of the biggest challenges facing Immigrants today.",
+    "image": "/images/test_image.jpg"
+  },
+  {
+    "id": "2",
+    "text": "Culture shock and a confusing system lead to mismatches between the services sought and services required. ",
+    "image": "/images/hero_image_crossroads.png"
+  },
+  {
+    "id": "3",
+    "text": "Language proficiency, cultural adaptation, and the recognition of foreign credentials can contribute to the time it takes for immigrants to fully integrate into the Canadian workforce and community.",
+    "image": "/images/hero_image_depressed_2.png"
+  }
+]

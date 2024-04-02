@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "text": "Your Path, Your Way. ImmiCan guides you through your immigration journey with a personalized roadmap, getting you started up to sooner, and ensuring you stay on track.",
+    "image": "/images/hero_image_personal_journey.png"
+  },
+  {
+    "id": "2",
+    "text": "Immican.ai is helping businesses automate their services and connect with the right clients when they need it most.",
+    "image": "/images/hero_image_meeting.png"
+  },
+  {
+    "id": "3",
+    "text": "ImmiCan helps immigrants make informed decisions  successfully integrate into Canadian society, and embark on a fulfilling professional journey.",
+    "image": "/images/hero_image_family.png"
+  }
+]

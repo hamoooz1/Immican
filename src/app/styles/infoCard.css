@@ -1,0 +1,9 @@
+.info_card{
+  background-color: white;
+  width: 370px;
+  height: 460px;
+  border: solid;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  margin: 2.5rem 0 2.5rem 0;
+}
